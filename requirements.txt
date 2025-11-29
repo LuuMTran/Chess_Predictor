@@ -1,3 +1,11 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:bffaf9f168a26b93079ca28b6c332c88aa4572148f69c97b624fd67cac9aa760
-size 124
+Flask
+numpy == 1.26.4
+pandas
+scikit-learn == 1.2.2
+imblearn
+xgboost
+lightgbm
+matplotlib
+plotly
+requests
+gunicorn
